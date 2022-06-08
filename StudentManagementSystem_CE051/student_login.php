@@ -47,7 +47,7 @@ if ($_SERVER["REQUEST_METHOD"] ===  "POST") {
   </header>
   <div class="login">
     <h1>Login</h1>
-    <form method="post" action="/Student Management System/student_login.php" autocomplete="off">
+    <form method="post" action="/StudentManagementSystem_CE051/student_login.php" autocomplete="off">
       <input type="email" id="email" name="email" placeholder="email" required autofocus />
       <input onmouseover="this.setAttribute('type','text')" onmouseout="this.setAttribute('type','password')" placeholder="Hover to show password" type="password" name="password" id="password" required>
       <button type="submit" class="btn btn-primary btn-block btn-large">Let me in.</button>
