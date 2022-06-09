@@ -1,1 +1,2 @@
 hello
+the folder arrangement before running the website is "C:\xampp\htdocs\StudentManagementSystem_CE051".
